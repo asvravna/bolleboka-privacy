@@ -4,4 +4,4 @@ Bolleboka lagrer ingen personopplysninger. All vurdering og informasjon brukeren
 
 Appen bruker ingen analysetjenester og sender ikke data til eksterne servere.
 
-Hvis du har spørsmål, kontakt oss på: bolleboka@appsupport.no
+Hvis du har spørsmål, kontakt oss på: ansvravna@gmail.com
